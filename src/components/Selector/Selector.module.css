@@ -1,0 +1,10 @@
+.formControl {
+  align-content: center !important;
+  width: 40%;
+  margin: 10px !important;
+}
+
+.formMain {
+  width: 80%;
+  margin: 30px auto;
+}
